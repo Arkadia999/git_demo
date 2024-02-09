@@ -144,7 +144,6 @@ it in large letters.
 It was all very well to say “Drink me,” but  
 the wise little Alice was not going to do _that_  
 
-
 “That *was* a narrow escape!” said Alice, a  
 good deal frightened at the sudden change, but  
 very glad to find herself still in existence; “and  
@@ -159,8 +158,7 @@ As she said these words her foot slipped,
 and in another moment, splash! she was up to  
 her chin in salt water. Her first idea was that  
 she had somehow fallen into the sea, “and in  
-
-
+  
 ---
 25
 
