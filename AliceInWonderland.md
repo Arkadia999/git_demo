@@ -593,9 +593,10 @@ Alice joined the procession, wondering very
 much what would happen next.  
 “ It’s—it’s a very fine day!” said a timid  
 voice at her side. She was walking by the White  
+
 ---
-<<<<<<< HEAD
 126
+
 &nbsp;&nbsp;&nbsp;&nbsp;“I’ll fetch the executioner myself,” said the  
 King eagerly, and he hurried off.  
 &nbsp;&nbsp;&nbsp;&nbsp;Alice thought she might as well go back and  
@@ -608,21 +609,7 @@ the look of things at all, as the game was in
 such confusion that she never knew whether it  
 was her turn or not. So she went off in search  
 of her hedgehog.  
-=======
-126  
-“I’ll fetch the executioner myself,” 
-said the King eagerly, and he hurried off.  
-Alice thought she might as well go back and
-see how the game was going on, as she heard
-the Queen’s voice in the distance, screaming
-with passion. She had already heard her sentence 
-three of the players to be executed for
-having missed their turns, and she did not like
-the look of things at all, as the game was in
-such confusion that she never knew whether it
-was her turn or not. So she went off in search
-of her hedgehog.
->>>>>>> 5671bea (Page 126-1 style fixes)
+
 ---
 128
 
